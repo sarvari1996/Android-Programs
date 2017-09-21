@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Szakdoga_v1</string>
+    <string name="select_aerob">Aerob edzés gyakoriság</string>
+    <string name="select_sulyzo">Súlyzós edzés gyakoriság</string>
+    <string name="select_nem">Férfi/Nő</string>
+    <string-array name="select_aerob">
+        <item>Naponta</item>
+        <item>Heti többször</item>
+        <item>Heti egyszer</item>
+        <item>Havi egyszer</item>
+        <item>Soha</item>
+    </string-array>
+
+    <string-array name="select_sulyzo">
+        <item>Naponta</item>
+        <item>Heti többször</item>
+        <item>Heti egyszer</item>
+        <item>Havi egyszer</item>
+        <item>Soha</item>
+    </string-array>
+
+    <string-array name="select_nem">
+        <item>Férfi</item>
+        <item>Nő</item>
+    </string-array>
+</resources>
